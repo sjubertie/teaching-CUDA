@@ -1,10 +1,7 @@
 /**
  * Detect the number of CUDA capable devices.
  */
-
 #include <iostream>
-
-#include <cuda_runtime.h>
 
 
 int main()
